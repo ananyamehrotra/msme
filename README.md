@@ -1,6 +1,6 @@
 # msme
 
-#⭐Problem Statement
+⭐**Problem Statement**
 
 Many MSMEs and SMEs in India struggle to establish a strong digital presence. While websites are essential for credibility and customer acquisition, these businesses often:
 
@@ -13,7 +13,7 @@ Many MSMEs and SMEs in India struggle to establish a strong digital presence. Wh
 ➡️As a result, their websites do not convert visitors into customers, undermining business growth and digital trust.
 
 
-#⭐Scope
+**⭐Scope**
 
 The project focuses on Indian MSMEs across domains such as retail, hospitality, personal services, and small manufacturing. The solution must:
 
@@ -26,7 +26,7 @@ The project focuses on Indian MSMEs across domains such as retail, hospitality, 
 ➡️Be scalable and adaptable across different industries.
 
 
-#⭐Solution
+**⭐Solution**
 
 An AI-powered platform that creates tailored website designs for MSMEs. It:
 
